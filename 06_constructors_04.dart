@@ -1,5 +1,5 @@
 // practical implementation - passing list of student objects with
-// "constructor data" and put for each to print all
+// "constructor data" and put for each to print all,
 // here we have added data in the list by "model". The data passing as 
 // argument while creating objects is also called "model"
 // afterwards, you can fetch thelist, print the list, 

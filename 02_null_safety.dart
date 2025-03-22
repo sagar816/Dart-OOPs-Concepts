@@ -18,7 +18,7 @@ void main() {
 
   age = 20;
   print(age);
-  // So the purpose of nullable variables is hat we can assign the values later to it,
+  // So the purpose of nullable variables is that we can assign the values later to it,
   // so even if you forget to assign the values, it will not show error it will give null and program will run
 
   //other data type example
@@ -26,9 +26,9 @@ void main() {
   print(name);
   // output = null
 
-  // always good pracive to assign values to variables
+  // always good practice to assign values to variables
 
-// in future in scenario where values can be null
+// in future scenario where values can be null
 // in this case handle like this
 
   if (name == null) {

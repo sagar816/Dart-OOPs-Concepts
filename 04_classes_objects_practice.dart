@@ -1,6 +1,6 @@
 // create student class - id, name, semister, grade
 // how to update value of any object or parameter using classes
-// note: while creating object instance:  Student student1 = Student(); the first student is datatype,
+// note: while creating object instance:  Student student1 = Student(); the first Student is datatype,
 // so it will take Student() object datatype only
 // like String name = "abc", here name value will take string only or else you will get error
 // after creating instance - you will pass values through object
